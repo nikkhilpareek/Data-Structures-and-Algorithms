@@ -7,7 +7,7 @@ Topics: Selection Sort, Insertion Sort, Bubble Sort
 
 Question Solved: <br>
 1. [Selection Sort](https://www.codingninjas.com/studio/problems/selection-sort_624469?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
-2. [Insertion Sort](https://www.codingninjas.com/studio/problems/insertion-sort_624381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+2. [Insertion Sort](https://www.codingninjas.com/studio/problems/insertion-sort_3155179)
 3. [Bubble Sort](https://www.codingninjas.com/studio/problems/bubble-sort_624380?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
 ## Day - 2
