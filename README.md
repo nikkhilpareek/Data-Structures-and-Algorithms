@@ -1,6 +1,6 @@
 
 # Data Structures and Algorithms
-This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode.
+This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode. <br> Questions Marked with '*' are from Leetcode and Unmarked Questions are from Coding Ninjas.
 
 ## Day - 1
 Topics: Selection Sort, Insertion Sort, Bubble Sort
@@ -27,6 +27,7 @@ Questions Solved:
 2. [Second Largest & Second Smallest](https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 3. [Check Sorted Array](https://www.codingninjas.com/studio/problems/ninja-and-the-sorted-check_6581957?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 4. [Remove Duplicates](https://www.codingninjas.com/studio/problems/remove-duplicates-from-sorted-array_1102307?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+5. [Contains Duplicate*](https://leetcode.com/problems/contains-duplicate/description/) 
 
 ## Day - 4
 Topics: One Dimensional Array (Easy Questions)
