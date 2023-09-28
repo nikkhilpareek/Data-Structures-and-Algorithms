@@ -2,8 +2,9 @@
 # Data Structures and Algorithms
 This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode.
 
-> Questions Marked with '*' are from Leetcode <br>
-> Unmarked Questions are from Coding Ninjas.
+> Questions Marked with '*' are from Leetcode. <br>
+> Unmarked Questions are from Coding Ninjas. <br>
+> Questions solved with more than one approach have descriptions about approaches with them.
 
 ## Day - 1
 Topics: Selection Sort, Insertion Sort, Bubble Sort
@@ -36,7 +37,8 @@ Questions Solved:
 Topics: One Dimensional Array (Easy Questions)
 
 Questions Solved:
-1. [Valid Anagram*](https://leetcode.com/problems/valid-anagram/)
+1. [Valid Anagram*](https://leetcode.com/problems/valid-anagram/) (Using String Sort & Without it)
+2. [Two Sum*](https://leetcode.com/problems/two-sum/) (With O(n^2) and O(n) Time Complexities)
 
 ## Author
 
