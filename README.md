@@ -1,6 +1,9 @@
 
 # Data Structures and Algorithms
-This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode. <br> Questions Marked with '*' are from Leetcode and Unmarked Questions are from Coding Ninjas.
+This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode.
+
+> Questions Marked with '*' are from Leetcode <br>
+> Unmarked Questions are from Coding Ninjas.
 
 ## Day - 1
 Topics: Selection Sort, Insertion Sort, Bubble Sort
