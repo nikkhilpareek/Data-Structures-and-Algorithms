@@ -35,6 +35,8 @@ Questions Solved:
 ## Day - 4
 Topics: One Dimensional Array (Easy Questions)
 
+Questions Solved:
+1. [Valid Anagram*](https://leetcode.com/problems/valid-anagram/)
 
 ## Author
 
