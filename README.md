@@ -19,13 +19,25 @@ Questions Solved:
 3. [Recursive Insertion Sort](https://www.codingninjas.com/studio/problems/insertion-sort_624381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 4. [Recursive Bubble Sort](https://www.codingninjas.com/studio/problems/bubble-sort_624380?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
+## Day - 3
+Topics: One Dimensional Array (Very Basic Questions)
 
 Questions Solved:
+1. [Largest Element in Array](https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+2. [Second Largest & Second Smallest](https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+3. [Check Sorted Array](https://www.codingninjas.com/studio/problems/ninja-and-the-sorted-check_6581957?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+4. [Remove Duplicates](https://www.codingninjas.com/studio/problems/remove-duplicates-from-sorted-array_1102307?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-
+## Day - 4
+Topics: One Dimensional Array (Easy Questions)
 
 
 ## Author
 
 - [@nikkhilpareek](https://www.github.com/nikkhilpareek)
 
+## My Codewars Stats
+![CodeWars Profile](https://www.codewars.com/users/nikkhil.pareek/badges/large)
+
+## My Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nikkhil-Pareek?theme=dark&font=Archivo)
