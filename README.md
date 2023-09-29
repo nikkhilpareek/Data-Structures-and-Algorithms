@@ -7,6 +7,8 @@ This Repository is the home of all the pieces of code I have written or I will b
 > Unmarked Questions are from Coding Ninjas. <br>
 > Questions solved with more than one approach have descriptions about approaches with them.
 
+<b> Total Questions Solved - 22
+
 ## Day - 1
 Topics: Selection Sort, Insertion Sort, Bubble Sort
 
