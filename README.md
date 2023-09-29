@@ -7,7 +7,7 @@ This Repository is the home of all the pieces of code I have written or I will b
 > Unmarked Questions are from Coding Ninjas. <br>
 > Questions solved with more than one approach have descriptions about approaches with them.
 
-<b> Total Questions Solved - 22
+<b> Total Questions - 32
 
 ## Day - 1
 Topics: Selection Sort, Insertion Sort, Bubble Sort
@@ -56,7 +56,16 @@ Questions Solved:
 Topics: One Dimensional Array (Easy Questions)
 
 Questions Solved:
-1. 
+1. [Merge Two Sorted Arrays](https://www.codingninjas.com/studio/problems/sorted-array_6613259)
+2. [Missing Number in Array*](https://leetcode.com/problems/missing-number/)
+3. [Maximum Consecutive Ones*](https://leetcode.com/problems/max-consecutive-ones/)
+4. [Single Number*](https://leetcode.com/problems/single-number/)
+5. [Longest Subarray with Sum K (only Positive Numbers)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
+6. [Longest Subarray with Sum K (Both Positive & Negative Numbers)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505)
+7. [Sort Colours*](https://leetcode.com/problems/sort-colors/) (Dutch National Flag Algorithm)
+8. [Majority Element*](https://leetcode.com/problems/majority-element/) (Moore's Voting Algorithm)
+9. [Maximum Subarray*](https://leetcode.com/problems/maximum-subarray/) (Kadane’s Algorithm)
+10. [Best Time to Buy and Sell Stocks*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
 ## Author
