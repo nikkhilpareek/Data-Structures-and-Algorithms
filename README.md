@@ -3,9 +3,10 @@
 This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode.
 
 > Questions Marked with '*' are from Leetcode. <br>
-> Questions Marked with '^' are from GeeksForGeeks <br>
+> Questions Marked with '^' are from GeeksForGeeks. <br>
 > Unmarked Questions are from Coding Ninjas. <br>
-> Questions solved with more than one approach have descriptions about approaches with them.
+> Questions solved with more than one approach have descriptions about approaches with them. <br>
+> If I created any Small projects during this, I have also mentioned them with the Day. <br>
 
 <b> Total Questions - 32
 
@@ -53,6 +54,8 @@ Questions Solved:
    
 
 ## Day - 5
+> Created a Rock, Paper or Scissors game [Click Here](https://github.com/nikkhilpareek/Rock-Paper-Scissor) to check that out! <br>
+
 Topics: One Dimensional Array (Easy Questions)
 
 Questions Solved:
@@ -67,6 +70,9 @@ Questions Solved:
 9. [Maximum Subarray*](https://leetcode.com/problems/maximum-subarray/) (Kadane’s Algorithm)
 10. [Best Time to Buy and Sell Stocks*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
+
+## Day - 6
+Topics: One Dimensional Array (Moderate Questions)
 
 ## Author
 
