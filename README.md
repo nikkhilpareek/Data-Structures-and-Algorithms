@@ -3,6 +3,7 @@
 This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode.
 
 > Questions Marked with '*' are from Leetcode. <br>
+> Questions Marked with '^' are from GeeksForGeeks <br>
 > Unmarked Questions are from Coding Ninjas. <br>
 > Questions solved with more than one approach have descriptions about approaches with them.
 
@@ -43,6 +44,18 @@ Questions Solved:
 4. [Rotate Array*](https://leetcode.com/problems/rotate-array/)
 5. [Linear Search](https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 6. [Move All Zeroes to End](https://www.codingninjas.com/studio/problems/ninja-and-the-zero-s_6581958?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+7. [Missing Numbers in AP](https://www.codingninjas.com/studio/problems/missing-number-in-ap_975498)
+8. [Move Negative to Front & Positive to End](https://www.codingninjas.com/studio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620)
+9. [Find the Fine^](https://practice.geeksforgeeks.org/problems/find-the-fine4353/1)
+10. [Greater on Right Side*](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
+   
+
+## Day - 5
+Topics: One Dimensional Array (Easy Questions)
+
+Questions Solved:
+1. 
+
 
 ## Author
 
