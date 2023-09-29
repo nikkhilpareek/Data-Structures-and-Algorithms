@@ -39,6 +39,10 @@ Topics: One Dimensional Array (Easy Questions)
 Questions Solved:
 1. [Valid Anagram*](https://leetcode.com/problems/valid-anagram/) (Using String Sort & Without it)
 2. [Two Sum*](https://leetcode.com/problems/two-sum/) (With O(n^2) and O(n) Time Complexities)
+3. [Left Rotate Array by 1 Place](https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=1) (Using Reverse from C++ STL & Using For Loop)
+4. [Rotate Array*](https://leetcode.com/problems/rotate-array/)
+5. [Linear Search](https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+6. [Move All Zeroes to End](https://www.codingninjas.com/studio/problems/ninja-and-the-zero-s_6581958?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
 ## Author
 
