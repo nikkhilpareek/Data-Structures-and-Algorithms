@@ -8,7 +8,7 @@ This Repository is the home of all the pieces of code I have written or I will b
 > Questions solved with more than one approach have descriptions about approaches with them. <br>
 > If I created any Small projects during this, I have also mentioned them with the Day. <br>
 
-<b> Total Questions - 32
+<b> Total Questions - 52 (Till Day 10)
 
 ## Day - 1
 Topics: Selection Sort, Insertion Sort, Bubble Sort
@@ -68,11 +68,63 @@ Questions Solved:
 
 ## Day - 6
 Topics: One Dimensional Array (Moderate Questions)
+
+Questions Solved:
 1. [Longest Subarray with Sum K (only Positive Numbers)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
 2. [Longest Subarray with Sum K (Both Positive & Negative Numbers)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505)
 3. [Sort Colours*](https://leetcode.com/problems/sort-colors/) (Dutch National Flag Algorithm)
 4. [Majority Element*](https://leetcode.com/problems/majority-element/) (Moore's Voting Algorithm)
 5. [Maximum Subarray*](https://leetcode.com/problems/maximum-subarray/) (Kadane’s Algorithm)
+
+
+## Day - 7
+Topics: Array (Moderate Questions)
+
+Questions Solved:
+1. [Rearrange Array Elements by Sign*](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+2. [Next Permutation*](https://leetcode.com/problems/next-permutation/description/)
+3. [Superior Elements](https://www.codingninjas.com/studio/problems/superior-elements_6783446)
+4. [Set Matrix Zeroes*](https://leetcode.com/problems/set-matrix-zeroes/description/)
+5. [Rotate Image*](https://leetcode.com/problems/rotate-image/description/)
+6. [Spiral Matrix*](https://leetcode.com/problems/spiral-matrix/description/)
+7. [Subarray Sum equals K*](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+8. [Longest Successive Elements](https://www.codingninjas.com/studio/problems/longest-successive-elements_6811740)
+
+
+## Day - 8
+Topics: Array (Hard Questions)
+
+Questions Solved:
+1. [Pascal's Triangle*](https://leetcode.com/problems/pascals-triangle/description/)
+2. [Majority Elements 2*](https://leetcode.com/problems/majority-element-ii/description/)
+3. [Three Sum*](https://leetcode.com/problems/3sum/description/)
+4. [Four Sum*](https://leetcode.com/problems/4sum/description/)
+
+
+## Day - 9
+Topics: Array (Hard Questions)
+
+Questions Solved:
+1. [Longest Subarray with 0 Sum](https://www.codingninjas.com/studio/problems/longest-subarray-with-zero-sum_6783450)
+2. [Merge Intervals*](https://leetcode.com/problems/merge-intervals/description/)
+3. [Merge Sorted Arrays without Extra Space*](https://leetcode.com/problems/merge-sorted-array/description/)
+4. [Subarrays with XOR K](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k_6826258)
+
+## Day - 10
+Topics: Array (Hard Questions)
+
+Questions Solved:
+1. [Missing and Repeating Numbers](https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_6828164)
+2. [Number of Inversions](https://www.codingninjas.com/studio/problems/number-of-inversions_6840276)
+3. [Reverse Pairs*](https://leetcode.com/problems/reverse-pairs/description/)
+4. [Maximum Product Subarray*](https://leetcode.com/problems/maximum-product-subarray/description/)
+
+
+## Day - 11
+Topics: Binary Search
+
+Questions Solved:
+1.
 
 ## Author
 
