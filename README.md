@@ -63,16 +63,16 @@ Questions Solved:
 2. [Missing Number in Array*](https://leetcode.com/problems/missing-number/)
 3. [Maximum Consecutive Ones*](https://leetcode.com/problems/max-consecutive-ones/)
 4. [Single Number*](https://leetcode.com/problems/single-number/)
-5. [Longest Subarray with Sum K (only Positive Numbers)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
-6. [Longest Subarray with Sum K (Both Positive & Negative Numbers)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505)
-7. [Sort Colours*](https://leetcode.com/problems/sort-colors/) (Dutch National Flag Algorithm)
-8. [Majority Element*](https://leetcode.com/problems/majority-element/) (Moore's Voting Algorithm)
-9. [Maximum Subarray*](https://leetcode.com/problems/maximum-subarray/) (Kadane’s Algorithm)
-10. [Best Time to Buy and Sell Stocks*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+5. [Best Time to Buy and Sell Stocks*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
 ## Day - 6
 Topics: One Dimensional Array (Moderate Questions)
+1. [Longest Subarray with Sum K (only Positive Numbers)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399)
+2. [Longest Subarray with Sum K (Both Positive & Negative Numbers)](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505)
+3. [Sort Colours*](https://leetcode.com/problems/sort-colors/) (Dutch National Flag Algorithm)
+4. [Majority Element*](https://leetcode.com/problems/majority-element/) (Moore's Voting Algorithm)
+5. [Maximum Subarray*](https://leetcode.com/problems/maximum-subarray/) (Kadane’s Algorithm)
 
 ## Author
 
