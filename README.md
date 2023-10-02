@@ -2,6 +2,10 @@
 # Data Structures and Algorithms
 This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode.
 
+<b> Do not forget to check "Code Dump" in this repository - it is the Collection of some Questions I found interesting to solve during this journey (These Questions are not included in any day's folder.
+
+<br>
+
 > Questions Marked with '*' are from Leetcode. <br>
 > Questions Marked with '^' are from GeeksForGeeks. <br>
 > Unmarked Questions are from Coding Ninjas. <br>
