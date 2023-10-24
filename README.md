@@ -1,8 +1,9 @@
 
 # Data Structures and Algorithms
-This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> Platforms Used for Practice - Coding Ninjas & Leetcode.
+This Repository is the home of all the pieces of code I have written or I will be writing during my journey to learn Data Structures and Algorithms. <br> 
+Platforms Used for Practice - Coding Ninjas, Leetcode, GeeksForGeeks.
 
-<b> Do not forget to check "Code Dump" in this repository - it is the Collection of some Questions I found interesting to solve during this journey (These Questions are not included in any day's folder.
+<b> Do not forget to check "Code Dump" in this repository - it is the Collection of some Questions I found interesting to solve during this journey (These Questions are not included in any day's folder.)
 
 <br>
 
@@ -12,7 +13,7 @@ This Repository is the home of all the pieces of code I have written or I will b
 > Questions solved with more than one approach have descriptions about approaches with them. <br>
 > If I created any Small projects during this, I have also mentioned them with the Day. <br>
 
-<b> Total Questions - 52 (Till Day 10)
+<b> Total Questions - 41 (Till Day 8)
 
 ## Day - 1
 Topics: Selection Sort, Insertion Sort, Bubble Sort
@@ -92,43 +93,14 @@ Questions Solved:
 5. [Rotate Image*](https://leetcode.com/problems/rotate-image/description/)
 6. [Spiral Matrix*](https://leetcode.com/problems/spiral-matrix/description/)
 7. [Subarray Sum equals K*](https://leetcode.com/problems/subarray-sum-equals-k/description/)
-8. [Longest Successive Elements](https://www.codingninjas.com/studio/problems/longest-successive-elements_6811740)
-
 
 ## Day - 8
-Topics: Array (Hard Questions)
+Topics: Binary Search & Array (Hard Questions)
 
 Questions Solved:
-1. [Pascal's Triangle*](https://leetcode.com/problems/pascals-triangle/description/)
-2. [Majority Elements 2*](https://leetcode.com/problems/majority-element-ii/description/)
-3. [Three Sum*](https://leetcode.com/problems/3sum/description/)
-4. [Four Sum*](https://leetcode.com/problems/4sum/description/)
-
-
-## Day - 9
-Topics: Array (Hard Questions)
-
-Questions Solved:
-1. [Longest Subarray with 0 Sum](https://www.codingninjas.com/studio/problems/longest-subarray-with-zero-sum_6783450)
-2. [Merge Intervals*](https://leetcode.com/problems/merge-intervals/description/)
-3. [Merge Sorted Arrays without Extra Space*](https://leetcode.com/problems/merge-sorted-array/description/)
-4. [Subarrays with XOR K](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k_6826258)
-
-## Day - 10
-Topics: Array (Hard Questions)
-
-Questions Solved:
-1. [Missing and Repeating Numbers](https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_6828164)
-2. [Number of Inversions](https://www.codingninjas.com/studio/problems/number-of-inversions_6840276)
-3. [Reverse Pairs*](https://leetcode.com/problems/reverse-pairs/description/)
-4. [Maximum Product Subarray*](https://leetcode.com/problems/maximum-product-subarray/description/)
-
-
-## Day - 11
-Topics: Binary Search
-
-Questions Solved:
-1.
+1. [Longest Successive Elements](https://www.codingninjas.com/studio/problems/longest-successive-elements_6811740)
+2. [Pascal's Triangle*](https://leetcode.com/problems/pascals-triangle/description/)
+3. 
 
 ## Author
 
