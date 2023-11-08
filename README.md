@@ -99,11 +99,10 @@ Topics: Binary Search & Array (Hard Questions)
 
 Questions Solved:
 1. [Binary Search](https://www.codingninjas.com/studio/problems/binary-search_972) (Iterative and Recursive)
-2. [Longest Successive Elements](https://www.codingninjas.com/studio/problems/longest-successive-elements_6811740)
-3. [Pascal's Triangle*](https://leetcode.com/problems/pascals-triangle/description/)
-4. [Majority Elements 2*](https://leetcode.com/problems/majority-element-ii/description/)
-5. [Three Sum*](https://leetcode.com/problems/3sum/description/)
-6. [Four Sum*](https://leetcode.com/problems/4sum/description/)
+2. [Pascal's Triangle*](https://leetcode.com/problems/pascals-triangle/description/)
+3. [Majority Elements 2*](https://leetcode.com/problems/majority-element-ii/description/)
+4. [Three Sum*](https://leetcode.com/problems/3sum/description/)
+5. [Four Sum*](https://leetcode.com/problems/4sum/description/)
 
 ## Author
 
